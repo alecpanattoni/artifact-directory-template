@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Analysis on the Effect of Missingness on Fairness Notions
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+One of the most common ways that biases can appear in machine learning is data missingness, which is the defined as the presence of data that is not stored for the variable of interest.  In particular, we will be looking at selection bias.  We begin by first establishing our parameters and definitions, defining our definitions of what it means to be fair in the context of machine-learning.  Then, we define the different types of missingness, focusing particularly on Missing at Random (MAR), Missing Completely at Random (MCAR), and Not Missing at Random (NMAR). For our project, we will be creating semi-synthetic data to replicate each type of missingness we will be looking at.
